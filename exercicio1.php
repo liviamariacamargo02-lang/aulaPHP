@@ -35,7 +35,7 @@ if(isset($_REQUEST["Enviar"])){
     $sexo = $_REQUEST["sexo"];
     $valorcompra = $_REQUEST["valorcompra"];
 
-    if ($sexo = "H")
+    if ($sexo = "M")
     $desconto = ($valorcompra*5)/100;
     $sexo = "Masculino";
 

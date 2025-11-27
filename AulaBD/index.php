@@ -7,21 +7,18 @@
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-
-  <?php include "menu.php" ?>
-
-<div class="conteudo">
-    <h3>Integração do PHP com MySql<h3>
-
-    <p> 
-        Nesta aula iremos estudar como integrar/conectar o PHP com o MySql.
-</p>
-
-<p>
-    O objetivo deste projeto sera cadastrar alunos de uma escola.
-</p>
-
-</div>
     
+     <?php include "menu.php" ?>
+
+    <div class="conteudo">
+        <h3>Integração do PHP com o MySQL</h3>
+
+        <p>
+            Nesta aula iremos estudar como integrar/conectar o PHP com o MySQL.
+        </p>
+        <p>
+            O objetivo desse projeto será cadastrar alunos de uma escola.
+        </p>
+    </div>
 </body>
 </html>
